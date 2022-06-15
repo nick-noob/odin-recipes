@@ -1,0 +1,29 @@
+/* style.css for odin-recipes */
+
+.odin {
+    float: left;
+    width: 7%;
+    padding: 5px;
+    font-size: 36px;
+    justify-content: center;
+    text-align: center;    
+}
+
+.odin-second {
+    float: left;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+    color: white;    
+}
+
+body {
+    background-color: black;
+}
+
+.welcome-bar {
+    display: block;
+}
